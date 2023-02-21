@@ -1,15 +1,19 @@
 body {
-    background-color: #ffeedd;
+    background-color: #000;
+    color: #fff;
     }
 
 h1 {
     color: #ff0000;
     }
 
-.mars {
-    background-color: #00ffee;
-    width: 300px;
-    }
 img {
     width: 300px;
     }
+.main { 
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
